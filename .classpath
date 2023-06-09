@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Shubh/eclipse-workspace/Coder_Tools/SpringMvcJar/commons-pool2-2.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shubh/eclipse-workspace/Coder_Tools/SpringMvcJar/mysql-connector-java-8.0.22.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shubh/eclipse-workspace/Coder_Tools/SpringMvcJar/org.apache.commons.io.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shubh/eclipse-workspace/Coder_Tools/SpringMvcJar/spring-aop-5.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shubh/eclipse-workspace/Coder_Tools/SpringMvcJar/spring-beans-5.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shubh/eclipse-workspace/Coder_Tools/SpringMvcJar/spring-context-5.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shubh/eclipse-workspace/Coder_Tools/SpringMvcJar/spring-core-5.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shubh/eclipse-workspace/Coder_Tools/SpringMvcJar/spring-expression-5.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shubh/eclipse-workspace/Coder_Tools/SpringMvcJar/spring-jcl-5.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shubh/eclipse-workspace/Coder_Tools/SpringMvcJar/spring-jdbc-5.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shubh/eclipse-workspace/Coder_Tools/SpringMvcJar/spring-orm-5.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shubh/eclipse-workspace/Coder_Tools/SpringMvcJar/spring-tx-5.2.0.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
